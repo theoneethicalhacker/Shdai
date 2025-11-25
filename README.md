@@ -1,0 +1,2 @@
+# Shdai
+An unrestricted ai

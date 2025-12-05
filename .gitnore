@@ -1,0 +1,20 @@
+# Ignore large AI models & sensitive data
+*.bin
+*.ggml
+*.gguf
+models/
+downloads/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# Android, Node, Python unwanted stuff
+.DS_Store
+__pycache__/
+.env
+*.log
